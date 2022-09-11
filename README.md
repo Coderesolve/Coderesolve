@@ -13,8 +13,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <br><br>
-    <a>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-    </a>
- </p>
+    <img src="https://komarev.com/ghpvc/?username=Coderesolve&style=flat-square&color=blue" alt=""/>
+  </p>
 </div>
+<h1>
+  <p align="center">
+  Welcome to the official Code Resolve Github!
+  </p>
+</h1>
