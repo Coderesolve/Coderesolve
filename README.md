@@ -21,3 +21,6 @@
   Welcome to the official Code Resolve Github!
   </p>
 </h1>
+<div align="center">
+  <img src="https://www.cs.qc.cuny.edu/images/CSWeb.jpg" width="1200" height="200"/>
+</div>
