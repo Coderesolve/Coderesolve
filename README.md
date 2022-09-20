@@ -31,13 +31,13 @@
   We are a club that aims to bring people together for the purpose of sharing ideas through tech. CodeReSolve is organized by students at CUNY Queens College. We hope to create a space where we share and collaborate on ideas.
   </p>
   <p>Board Members</p>
-  <p><strong>President<strong></p>
-  <p>Board Members</p>
-  <p>Board Members</p>
-  <p>Board Members</p>
-  <p>Board Members</p>
-  <p>Board Members</p>
-  <p>Board Members</p>
-  
+  <p>President: Amalia Torres</p>
+  <p>Vice President: Kayla Washington</p>
+  <p>Secretary: Esther Abittan</p>
+  <p>Treasurer: Sadia Ahmed</p>
+  <p>Workshop Developer: Tasneem Hasanat, Jonathan Suconota, Nicole Haller, Emily Haller</p>
+  <p>Community Outreach Coordinator: Shela Escobar, Cristina Moran M/p>
+  <p>Event Coordinator: Umme Habiba</p>
+  <p>Social Media Coordinator: Leslie Saquisili</p>
 </h1>
 
