@@ -28,9 +28,10 @@
 
 <h1>
   <p align="center">
-  Welcome to Code Resolve! We are a club that aims to bring people together for the purpose of sharing ideas through tech. ReSolve is organized by students at CUNY Queens College. We hope to create a space where we share and collaborate on ideas.
+  We are a club that aims to bring people together for the purpose of sharing ideas through tech. CodeReSolve is organized by students at CUNY Queens College. We hope to create a space where we share and collaborate on ideas.
   </p>
+  <p>Board Members
+  president frank
+  vice prisedent</p>
 </h1>
-Treasurer/Social Media Director: @Francis 
-Secretary: @Ensar @Lily 
-Trustee Director/Discord Manager: @Jason 
+
