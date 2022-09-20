@@ -30,8 +30,14 @@
   <p align="center">
   We are a club that aims to bring people together for the purpose of sharing ideas through tech. CodeReSolve is organized by students at CUNY Queens College. We hope to create a space where we share and collaborate on ideas.
   </p>
-  <p>Board Members
-  president frank
-  vice prisedent</p>
+  <p>Board Members</p>
+  <p><b>President: </b>Amalia Torres</p> 
+  <p>Board Members</p>
+  <p>Board Members</p>
+  <p>Board Members</p>
+  <p>Board Members</p>
+  <p>Board Members</p>
+  <p>Board Members</p>
+  
 </h1>
 
